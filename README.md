@@ -12,4 +12,4 @@ To run a specific day's solution, navigate to the corresponding folder and use t
 
 ```bash
 cd DayX/pX
-go run main.go
+go run p1/p2.go
